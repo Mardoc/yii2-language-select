@@ -1,0 +1,27 @@
+{
+  "name": "mardoc/yii2-language-select",
+  "description": "A widget to render animated CSS3 loading spinners with VML fallback for IE (sub repo split from yii2-widgets)",
+  "keywords": [
+    "yii2",
+    "extension",
+    "widget",
+    "select",
+    "language"
+  ],
+  "homepage": "https://github.com/mardoc/yii2-language-select",
+  "type": "yii2-extension",
+  "license": "MIT License",
+  "authors": [
+    {
+      "name": "Serhii Fertikov",
+      "email": "works@mardoc.net",
+      "homepage": "https://mardoc.net/"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "mardoc\\yii2-language-select\\": "src"
+    }
+  }
+}
