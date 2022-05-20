@@ -5,7 +5,7 @@
  
 | Name                          | Code|Website                    |
 |-------------------------------|----|---------------------------------------------------------------------| 
-| [code](./src/assets/img/cs.svg)|`cs`| Czech (based on https://cs.wikipedia.org/wiki/Seznam_k?d?_ISO_639-1)| 
+| [code](/src/assets/img/cs.svg)|`cs`| Czech (based on https://cs.wikipedia.org/wiki/Seznam_k?d?_ISO_639-1)| 
 | [code](./src/assets/img/cs-CZ.svg)|`cs-CZ`| Czech (based on https://cs.wikipedia.org/wiki/Seznam_k?d?_ISO_639-1)| 
 | [code](./src/assets/img/da.svg)|`da`| Danish (based on https://da.wikipedia.org/wiki/ISO_639-1)| 
 | [code](./src/assets/img/da-DK.svg)|`da-DK`| Danish (based on https://da.wikipedia.org/wiki/ISO_639-1)| 
@@ -101,3 +101,7 @@ use mardoc\LanguageSelect;
         ]);
 ?>
 ```
+
+## License
+
+[MIT](LICENSE)
