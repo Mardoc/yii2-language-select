@@ -1,6 +1,6 @@
 {
   "name": "mardoc/yii2-language-select",
-  "description": "A widget to render animated CSS3 loading spinners with VML fallback for IE (sub repo split from yii2-widgets)",
+  "description": "A widget to render language select witch svg icons",
   "keywords": [
     "yii2",
     "extension",
