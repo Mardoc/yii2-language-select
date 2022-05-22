@@ -10,7 +10,7 @@
   ],
   "homepage": "https://github.com/mardoc/yii2-language-select",
   "type": "yii2-extension",
-  "license": "MIT License",
+  "license": "MIT",
   "authors": [
     {
       "name": "Serhii Fertikov",
@@ -18,7 +18,9 @@
       "homepage": "https://mardoc.net/"
     }
   ],
-  "require": {},
+  "require": {
+    "php": ">= 7"
+  },
   "autoload": {
     "psr-4": {
       "mardoc\\yii2-language-select\\": "src"
