@@ -43,7 +43,7 @@ use mardoc\LanguageSelect;
                 'lt-LT'=>'Lt',
                 'es'=>'Es'
             ],
-            'languageParam'=>''
+            'languageParam'=>'language'
         ]);
 ?>
 ```
