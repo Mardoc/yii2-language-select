@@ -18,12 +18,14 @@
       "homepage": "https://mardoc.net/"
     }
   ],
-  "require": {
-    "php": ">= 7"
-  },
   "autoload": {
     "psr-4": {
       "mardoc\\yii2-language-select\\": "src"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
     }
   }
 }
